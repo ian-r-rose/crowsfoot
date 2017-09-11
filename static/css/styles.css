@@ -43,9 +43,6 @@ body {
     font-family: 'Merriweather';
     font-weight: 300;
     font-size: 4em;
-    padding-left: 10px; /* Hack to dodge :hover issue. */
-    position: relative; /* Hack to dodge :hover issue. */
-    left: -10px; /* Hack to dodge :hover issue. */
 }
 
 .sitesubtitle {
@@ -72,12 +69,6 @@ body {
 
 .posttitle {
     font-size: 1.6em;
-}
-
-.posttitle a {
-    padding-left: 10px; /* Hack to dodge :hover issue. */
-    position: relative; /* Hack to dodge :hover issue. */
-    left: -10px; /* Hack to dodge :hover issue. */
 }
 
 .postinfo {
