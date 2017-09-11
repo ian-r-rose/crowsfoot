@@ -225,6 +225,19 @@ sub {
     font-size: 1em;
 }
 
+/* Category */
+
+.category-description h1 {
+  font-size: 2.2em;
+  margin: 20px;
+}
+
+.category-description p {
+  font-size: 1.1em;
+  margin: 20px;
+}
+
+
 /* Footer at page bottom */
 
 footer {

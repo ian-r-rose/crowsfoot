@@ -4,6 +4,10 @@
 
 <section class="content">
 
+  <div class="category-description">
+    {{ category.page.content }}
+  </div>
+
   <ol id="postlist">
 
     {% for article in articles|reverse %}
