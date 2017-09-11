@@ -103,12 +103,12 @@ a { /* Generic link styling, greyish and underlined. */
     text-decoration: none;
 }
 
-a:hover { /* Hover style: transition to orange. Cool! */
+a:hover { /* Hover style: transition to blue. Cool! */
     -o-transition:color .2s ease-in-out;
     -webkit-transition:color .2s ease-in-out;
     -moz-transition:color .2s ease-in-out;
     transition:color .2s ease-in-out;
-    color: orange;
+    color: #2874A6;
 }
 
 /* Generic to all content. */
